@@ -1,5 +1,5 @@
 body {
-    background-color: #111;
+    background-color: #333;
 }
 
 .loader {
@@ -8,7 +8,7 @@ body {
 }
 
 .hex-brick {
-    background: yellow;
+    background: #00ffd3;
     width: 30px;
     height: 17px;
     position: absolute;
@@ -287,14 +287,14 @@ body {
 
 @keyframes fade {
     0% {
-        background: yellow;
+        background: #00ffd3;
     }
 
     50% {
-        background: yellow;
+        background: #00ffd3;
     }
 
     100% {
-        background: yellow;
+        background: #00ffd3;
     }
 }
