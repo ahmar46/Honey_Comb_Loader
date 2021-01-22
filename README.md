@@ -4,4 +4,4 @@
 
 ### Find me on Instagram: @leectrifying_codes.
 
-[instagram] : 
+[instagram] : https://www.instagram.com/electrifying_codes/
