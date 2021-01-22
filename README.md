@@ -1,4 +1,4 @@
-### Honey Comb Loading Screen made for my Instagram Page : @electrifying_codes
+### Honey Comb loading Screen made for my Instagram Page : @electrifying_codes
 
 ### Technologies Used - HTML and CSS only.
 
