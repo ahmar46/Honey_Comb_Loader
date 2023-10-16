@@ -2,7 +2,7 @@
 
 ### Technologies Used - HTML and CSS only.
 
-### Joi
+### Join
 ### Find me on Instagram: [@electrifying_codes][Instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes
