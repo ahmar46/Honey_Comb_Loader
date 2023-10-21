@@ -2,7 +2,7 @@
 
 ### Technologies Used - HTML and CSS only.
 
-### Join our discord Server: [@electrifying_codes][disco]
+### Join our discord Server: [@electrifying_codes][discor]
 ### Find me on Instagram: [@electrifying_codes][Instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes
