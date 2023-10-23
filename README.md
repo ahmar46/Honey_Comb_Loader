@@ -3,6 +3,6 @@
 ### Technologies Used - HTML and CSS only.
 
 ### Join our discord Server: [@electrifyingcodes][discord]
-### Find me on Instagram: [@electrifying_codes][Instagram].
+### Find me on Instagram: [@electrifyingcodes][Instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes
