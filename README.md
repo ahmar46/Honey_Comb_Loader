@@ -6,4 +6,4 @@
 ### Find me on Instagram: [@electrifyingcodes][Instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes
-[discord]: link is here click on it on ther
+[discord]: link is here click on it on there
