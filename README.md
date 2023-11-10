@@ -6,4 +6,4 @@
 ### Find me on Instagram: [@electrifyingcodes][Instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes
-[discord]: link igit abio 
+[discord]: link igit abi
