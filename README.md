@@ -6,4 +6,4 @@
 ### Find me on Instagram: [@electrifyingcodes][Instagram].
 
 [instagram]: https://www.instagram.com/electrifying_codes
-[discord]: link is in the water
+[discord]: link is in the wate
